@@ -1,10 +1,11 @@
-JustDeleteMe
+删号跑路
 ============
 
+本项目 fork 自 
+[![JustDeleteMe](https://github.com/jdm-contrib/jdm)
 A directory of direct links to delete your account from web services.
+聚合直链帮您从各个互联网服务删除账号。
 
-[![Build Status](https://travis-ci.org/jdm-contrib/jdm.svg?branch=master)](https://travis-ci.org/jdm-contrib/jdm)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53bbffc9bd3c40459200b33736922c6b)](https://www.codacy.com/app/tupaschoal/justdelete-me)
 
 ## Building Locally
 
