@@ -2,8 +2,10 @@
 ============
 
 本项目 fork 自 
-[![JustDeleteMe](https://github.com/jdm-contrib/jdm)
+[[JustDeleteMe](https://github.com/jdm-contrib/jdm)
+
 A directory of direct links to delete your account from web services.
+
 聚合直链帮您从各个互联网服务删除账号。
 
 
