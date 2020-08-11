@@ -9183,6 +9183,16 @@
             "zulipchat.com"
         ]
     },
+	
+	{
+        "name": "知乎",
+        "url": "https://www.zhihu.com/appview/help_center",
+        "difficulty": "medium",
+        "notes": "打开链接，选择账号注销",
+        "domains": [
+            "zhihu.com"
+        ]
+    },
 
     {
         "name": "Zynga",
