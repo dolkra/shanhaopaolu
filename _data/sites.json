@@ -1,63 +1,63 @@
 [
-    {
-        "name": "/e/",
-        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
-        "difficulty": "easy",
-        "notes": "Profile > settings > delete account > confirm",
-        "domains": [
-            "e.foundation",
-            "ecloud.global"
-        ]
-    },
 
     {
-        "name": "000Webhost",
-        "url": "https://000webhost.com/members/profile",
-        "difficulty": "easy",
-        "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
-        "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
-        "domains": [
-            "000webhost.com",
-            "000webhostapp.com"
-        ]
-    },
-
-    {
-        "name": "1Password",
-        "url": "https://my.1password.com/profile",
-        "difficulty": "easy",
-        "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
-        "domains": [
-            "1password.com"
-        ]
-    },
-
-    {
-        "name": "280daily",
-        "url": "https://280daily.com/settings/delete",
-        "difficulty": "easy",
-        "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
-        "domains": [
-            "280daily.com"
-        ]
-    },
-
-    {
-        "name": "4shared",
-        "url": "https://www.4shared.com/web/account/settings#overview",
-        "difficulty": "easy",
-        "domains": [
-            "4shared.com"
-        ]
-    },
-
-    {
-        "name": "500px",
-        "url": "https://500px.com/settings",
+        "name": "超星学习通",
+        "url": "http://www.chaoxing.com/",
         "difficulty": "hard",
-        "notes": "On Account Settings, under \"Please choose your issue below\", select \"Delete Account\", fill the form and submit.",
+        "notes": "拨打客服电话 4009020966 或发送电子邮件到 tsk@chaoxing.com，在叙述和沟通中强调删除账号的紧迫性",
         "domains": [
-            "500px.com"
+            "chaoxing.com"
+        ]
+    },
+	
+    {
+        "name": "钉钉",
+        "url": "https://www.dingtalk.com/",
+        "difficulty": "medium",
+        "notes": "点击左上角头像→设置→安全中心→账号设置→更多→注销钉钉账号",
+        "domains": [
+            "www.dingtalk.com"
+        ]
+    },
+
+   {
+        "name": "酷安",
+        "url": "https://coolapk.com/",
+        "difficulty": "easy",
+        "notes": "依次点击我-设置帮助与反馈-常见问题-如何注销酷安账号？-申请注销",
+        "domains": [
+            "coolapk.com"
+        ]
+    },
+	
+	{
+        "name": "网易云音乐",
+        "url": "https://music.163.com/",
+        "difficulty": "easy",
+		"notes": "在官网登录账号，在页面右上角头像处进入个人设置-绑定设置-进入注销流程",
+        "domains": [
+            "music.163.com"
+        ]
+    },
+	
+    {
+        "name": "微信",
+        "url": "https://www.wechat.com/",
+        "difficulty": "medium",
+        "notes": "在微信App上依次点击我-设置-账号与安全-微信安全中心-注销账号-申请注销",
+        "domains": [
+            "wechat.com",
+			"web.wechat.com"
+        ]
+    },
+
+    {
+        "name": "京东",
+        "url": "https://www.jd.com/",
+        "difficulty": "medium",
+        "notes": "在京东App上依次点击我的-账号设置-账户与安全-注销服务-申请注销",
+        "domains": [
+            "jd.com"
         ]
     },
 
@@ -9175,12 +9175,12 @@
     },
 
     {
-        "name": "Zulip",
+        "name": "QQ",
         "url": "https://zulipchat.com/help/deactivate-your-account",
         "difficulty": "easy",
-        "notes": "Navigate to Settings > Your Account > Deactivate Account",
+        "notes": "下载手机QQ7.9.9及以上版本，可通过点击【头像】->【设置】->【帐号、设备安全】进入“注销QQ帐号”页面，满足页面所描述的注销条件，即可申请注销。",
         "domains": [
-            "zulipchat.com"
+            "https://www.qq.com/"
         ]
     },
 	
@@ -9188,22 +9188,19 @@
         "name": "知乎",
         "url": "https://www.zhihu.com/appview/help_center",
         "difficulty": "medium",
-        "notes": "打开链接，选择账号注销",
+        "notes": "打开链接，选择账号注销。",
         "domains": [
             "zhihu.com"
         ]
     },
 
     {
-        "name": "Zynga",
-        "url": "https://zynga.com/privacy/faqs",
-        "difficulty": "hard",
-        "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
-        "email": "privacy@zynga.com",
-        "email_subject": "Delete My Account",
-        "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
+        "name": "智联招聘",
+        "url": "https://www.zhaopin.com/",
+        "difficulty": "medium",
+        "notes": "关注“智联客服”微信公众号，点击在线客服后，转接人工客服完成注销。",
         "domains": [
-            "zynga.com"
+            "zhaopin.com"
         ]
     }
 ]
